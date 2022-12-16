@@ -35,7 +35,7 @@ const Header = () => {
             </div>
           </div>
           <h2 className="profile-name">Sithika Dangampala</h2>
-          <h3 className="profile-profession">Full Stack Web Developer</h3>
+          <h3 className="profile-profession">Full Stack Developer</h3>
 
           <ul className="profile-social">
             <a
