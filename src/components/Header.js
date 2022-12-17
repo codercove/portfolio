@@ -2,6 +2,7 @@ import avatar from "../img/perfil.png";
 import Resume from "./cv/RESUME.pdf";
 const Header = () => {
   let time = new Date().getHours();
+  let btn = document.getElementById("change-theme");
   if (time > 8 && time < 18) {
     document.body.classList.remove("dark-theme");
     btn.classList.add("ri-moon-line");
