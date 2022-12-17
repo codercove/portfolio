@@ -1,5 +1,5 @@
 import avatar from "../img/perfil.png";
-import Resume from "./cv/ncoderlk-resume.pdf";
+import Resume from "./cv/RESUME.pdf";
 const Header = () => {
   let time = new Date().getHours();
   if (time > 8 && time < 18) {
