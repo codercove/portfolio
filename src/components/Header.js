@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="profile container">
       <i
-        className="ri-moon-line change-theme"
+        className="ri-sun-line change-theme"
         id="change-theme"
         onClick={() => {
           let btn = document.getElementById("change-theme");
