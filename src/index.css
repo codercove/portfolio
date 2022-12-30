@@ -144,6 +144,7 @@ body.dark-theme {
 .profile-perfil img {
   width: 90px;
   overflow: hidden;
+  filter: blur(5px);
 }
 
 .profile-border {
