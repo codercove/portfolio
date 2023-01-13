@@ -49,7 +49,7 @@ const Header = () => {
               <i className="ri-linkedin-box-line"></i>
             </a>
             <a
-              href="https://github.com/ncoderlk"
+              href="https://github.com/codercove"
               target={"_blank"}
               className="profile-social-link"
             >
